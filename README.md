@@ -1,4 +1,3 @@
-# Spam-Email-Detection-using-Machine-Learning
 # 📧 Spam Email Detection using Machine Learning
 
 A machine learning project for detecting spam emails using Natural Language Processing (NLP) techniques and Logistic Regression.
